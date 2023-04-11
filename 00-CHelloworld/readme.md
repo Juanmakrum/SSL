@@ -1,0 +1,1 @@
+El compilador que utilizo es "MinGW". 
